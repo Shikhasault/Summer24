@@ -1,2 +1,2 @@
 # Summer24
-This is intro of Git. Author- shikha 
+This is intro of Git. Author- shikha jaryal
